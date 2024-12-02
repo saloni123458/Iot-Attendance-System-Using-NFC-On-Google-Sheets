@@ -42,7 +42,6 @@ byte bufferLen = 18;
 byte readBlockData[18];
 
 String data2;
-const String urlLink = "https://script.google.com/macros/s/AKfycbz4HLjed4iQCdcdtSC4Tf-qVNq3zsqsxto3BGOBUqAjsh4VxPAozCDuBk7ArH47zCGplg/exec";
 void setup() 
 {
   /* Initialize serial communications with the PC */
